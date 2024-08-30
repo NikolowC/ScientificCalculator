@@ -1,0 +1,10 @@
+C:\Codes\VisualStudio\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\Codes\VisualStudio\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+C:\Codes\VisualStudio\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+C:\Codes\VisualStudio\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.AssemblyReference.cache
+C:\Codes\VisualStudio\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+C:\Codes\VisualStudio\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+C:\Codes\VisualStudio\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.cache
+C:\Codes\VisualStudio\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Codes\VisualStudio\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\Codes\VisualStudio\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
