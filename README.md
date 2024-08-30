@@ -1,4 +1,5 @@
-Certainly! Here's the entire documentation for the scientific calculator project compiled into one text block:
+## Изработиле:
+### Драган Ризов, Цветан Николов, Костадин Манчев
 
 ---
 
